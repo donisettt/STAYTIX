@@ -1,3 +1,12 @@
+# Aplikasi Pemesanan Tiket Hotel Laravel 8
+
+![landing_page](https://github.com/user-attachments/assets/e61c3ca5-927e-4eb8-a10c-7ae1bf7aa13a)
+![reservasi](https://github.com/user-attachments/assets/968707f8-1de2-45cd-b195-7082a0af69b9)
+![transaksi](https://github.com/user-attachments/assets/4b55907d-be74-471e-b7d2-edc30b3cb7fe)
+![fasilitas](https://github.com/user-attachments/assets/d4faacb5-5486-4d3b-9fcc-069cccbfc34b)
+![kamar](https://github.com/user-attachments/assets/dbf843e0-3329-400c-af68-cf1ff9e4fa91)
+![dashboard](https://github.com/user-attachments/assets/72a1903b-98c5-41e6-98f6-88c595144e4d)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
